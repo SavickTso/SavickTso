@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Welcome!
+About Me
+- A student who knows nothing but copy and paste just like you
+- Coffee lover, I drink coffee for the good taste instead of the "effciency"
+- Nothing really matters, genius✨
 <!--
 **SavickTso/SavickTso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
