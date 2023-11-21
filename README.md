@@ -1,5 +1,12 @@
 ### Welcome!
 
+Yo! 🐯  
+
+I am a D2 student at UTokyo.  
+
+My research interests lie in High-speed Vision System, Human Motion Prediction and Human Robot Interaction.
+
+Also some of my works in [@YongpengCao-sony](https://github.com/YongpengCao-sony)
 <!--
 **SavickTso/SavickTso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
