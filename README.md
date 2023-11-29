@@ -22,4 +22,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=SavickTso&count_private=true&show_icons=true&theme=cobalt" height="170"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavickTso&theme=tokyonight" height="170">
+<img src="https://github-readme-stats-3eu8.vercel.app/api?username=savicktso&count_private=true&show_icons=true&theme=cobalt" height="170"> <img src="https://github-readme-stats-3eu8.vercel.app/api/top-langs/?username=SavickTso&theme=tokyonight&layout=compact" height="170">  
+
+<div align="left">
+  <a href="https://linkedin.com/in/yongpeng-cao"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>&emsp;
+  <a href="https://sites.google.com/view/savicktso"><img src="https://img.shields.io/badge/google-4285F4?style=flat&logo=google&logoColor=white" /></a>&emsp;
+  <a href="mailto:savicktso@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>&emsp;
+  <!-- <img src="https://komarev.com/ghpvc/?username=SavickTso&label=Views&color=0e75b6&style=flat" /> -->
+</div>
