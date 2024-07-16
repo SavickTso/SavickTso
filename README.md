@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats-3eu8.vercel.app/api?username=savicktso&count_private=true&show_icons=true&theme=cobalt" height="170"> <img src="https://github-readme-stats-3eu8.vercel.app/api/top-langs/?username=SavickTso&theme=tokyonight&layout=compact" height="170">  
+<img src="https://leetcard.jacoblin.cool/savick?theme=dark&font=Syne&ext=heatmap" height="260">
 
 <div align="left">
   <a href="https://linkedin.com/in/yongpeng-cao"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>&emsp;
