@@ -2,7 +2,7 @@
 
 Yo! 🐯  
 
-I am a D3 student at UTokyo.  
+I am a D[-1] student at UTokyo.  
 
 My research interests lie in High-speed Vision System, Human Motion Prediction and Human Robot Interaction.
 
