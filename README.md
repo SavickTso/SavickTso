@@ -4,7 +4,7 @@ Yo! 🐯
 
 I am a D[-1] student at UTokyo.  
 
-My research interests lie in High-speed Vision System, Human Motion Prediction and Human Robot Interaction.
+My research interests lie in high-speed vision system, human motion prediction and human-robot interaction.
 
 <!--Also:  
 [@YongpengCao-sony](https://github.com/YongpengCao-sony)  
