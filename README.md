@@ -1,8 +1,6 @@
 ### Welcome!
 
-Yo! 🐯  
-
-I am a D[-1] student at UTokyo.  
+Hi!你好！こんにちは！
 
 My research interests lie in high-speed vision system, human motion prediction and human-robot interaction.
 
