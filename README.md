@@ -2,8 +2,11 @@
 
 Hi!你好！こんにちは！
 
-My research interests lie in high-speed vision system, human motion prediction and human-robot interaction.
+I am working as a research engineer at [Nablas](https://www.nablas.com/en). Doing some model development on video, audio and time series data.
 
+Before joining Nablas, I did my master and doctoral study at the University of Tokyo, in [Yamakawa lab](http://www.hfr.iis.u-tokyo.ac.jp/index-e.html). My research interests lie in human behaviour understanding, human-robot interaction, high-speed vision system, and human motion prediction.
+
+Check my [website](savicktso.github.io) for more info.
 <!--Also:  
 [@YongpengCao-sony](https://github.com/YongpengCao-sony)  
 [Gist](https://gist.github.com/SavickTso)  
